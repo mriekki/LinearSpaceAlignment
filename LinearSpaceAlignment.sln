@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LinearSpaceAlignment", "LinearSpaceAlignment\LinearSpaceAlignment.pyproj", "{E5F6BC86-4AD4-48E9-BBC3-4D3D3D8930C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F6BC86-4AD4-48E9-BBC3-4D3D3D8930C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F6BC86-4AD4-48E9-BBC3-4D3D3D8930C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68DA648B-0E16-4BF0-BD8B-FAC34A0A0A19}
+	EndGlobalSection
+EndGlobal
